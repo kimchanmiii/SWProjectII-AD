@@ -1,4 +1,4 @@
-# SWProjectII-AD
+# SWProjectII-AD (TypingGame)
 PyQt5를 이용한 타이핑게임 제작 팀 프로젝트    
 
 ## 1. 개요    
